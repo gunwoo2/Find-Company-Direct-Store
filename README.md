@@ -1,4 +1,4 @@
-# Find-Company-Direct-Store
+# Find-Company-Direct-Store [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube)](https://youtu.be/2njm-gRvg5k?si=_cRmEfF53j4y4sk9)
 B2C 고객을 위한 직영점 찾기 프로그램 (네이버 API 활용)
 
 
